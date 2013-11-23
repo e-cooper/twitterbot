@@ -13,8 +13,11 @@ If you don't already have have them, please install [Node.js](http://nodejs.org/
 Make an empty project directory somewhere convenient for you, download the ZIP file for this repository, and unzip the contents to your project directory. Go to your project directory in the command line. There should be four files there: `.gitignore`, `README.md`, `bot.js`In that directory type:
 
 `npm install twit`
+
 `npm install request`
+
 `npm install cheerio`
+
 `npm install underscore.deferred`
 
 This installs some code to the `npm_modules` subdirectory, which you don't need to worry about.
