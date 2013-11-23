@@ -10,7 +10,7 @@ _Note: you must be comfortable using your computer's command line interface to u
 
 If you don't already have have them, please install [Node.js](http://nodejs.org/). This will install two programs: `node`, which runs JavaScript from the command line, and `npm`, which helps you install software that Node.js can run.
 
-Make an empty project directory somewhere convenient for you, download the ZIP file for this repository, and unzip the contents to your project directory. Go to your project directory in the command line. There should be four files there: `.gitignore`, `README.md`, `bot.js`In that directory type:
+Make an empty project directory somewhere convenient for you, download the ZIP file for this repository, and unzip the contents to your project directory. Go to your project directory in the command line. There should be four files there: `.gitignore`, `README.md`, `bot.js`, and `config.js`. In that directory type:
 
 `npm install twit`
 
